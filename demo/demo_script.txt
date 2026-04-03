@@ -1,0 +1,11 @@
+Hi, I built an autonomous hiring agent.
+
+It ingests 1000 candidates, scores them using AI, ranks them, and runs adaptive interviews.
+
+Each response is analyzed to detect AI-generated content using embeddings.
+
+All interactions are stored in Supabase as memory.
+
+The system learns from selected candidates and updates scoring weights automatically.
+
+This creates a fully autonomous hiring pipeline.
